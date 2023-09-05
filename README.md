@@ -19,22 +19,22 @@ This C++ program demonstrates Dijkstra's algorithm for finding the shortest path
 
 Suppose you want to find the shortest paths in the following weighted graph with 4 vertices:
 
-```Number of vertices: 4
-Adjacency Matrix (4x4):
-0 2 4 0
-2 0 1 5
-4 1 0 3
-0 5 3 0
-Source Vertex: 0```
+Number of vertices: 4
+- Adjacency Matrix (4x4):
+- 0 2 4 0
+- 2 0 1 5
+- 4 1 0 3
+- 0 5 3 0
+- Source Vertex: 0
 
 
 ### Output Example
 
 The program will output the shortest distances from the source vertex to all other vertices:
 
-```Shortest Distances from Source Vertex 0:
+Shortest Distances from Source Vertex 0:
 
-Vertex 0: 0
-Vertex 1: 2
-Vertex 2: 3
-Vertex 3: 6```
+- Vertex 0: 0
+- Vertex 1: 2
+- Vertex 2: 3
+- Vertex 3: 6
